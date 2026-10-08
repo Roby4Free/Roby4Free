@@ -1,58 +1,40 @@
-# Hey, I’m Roby4Free 👋
+# Roby4Free 👋
 
-**Embedded Linux · Firmware · Open Source · AI Agents**
+**Embedded Linux · Firmware Research · Device Repurposing · Open Source**
 
-I’m an independent technology enthusiast and hands-on learner based in Italy, passionate about exploring how hardware and software work together.
+I'm an independent technology enthusiast and hands-on maker based in Italy. I explore how hardware and software work together, with a focus on understanding existing devices, adapting open-source components, and documenting what actually works.
 
-My interests span embedded systems, firmware development, electronics, Linux servers, networking, client/server applications and open-source technologies.
+## 🔧 Current Focus
 
-I enjoy experimenting with real hardware, understanding how devices operate, adapting existing technologies and developing practical solutions.
+### Innioasis Y2 · Custom Firmware Research
 
-## 🔬 Areas of Interest
+I'm working on an independent research project exploring the Innioasis Y2 digital audio player as a platform for lightweight multimedia software and device repurposing.
 
-**Embedded Systems & Firmware**
+**Research and development areas**
+- Identifying hardware components and documenting real-device behavior
+- Studying MediaTek/ARM firmware, Android customization, and Linux kernel compatibility
+- Evaluating upstream source code, drivers, and reusable components
+- Testing through USB/ADB, collecting reproducible evidence, and planning safe recovery paths
+- Exploring efficient multimedia interfaces and lightweight on-device services
 
-ARM devices, Linux kernels, Android firmware, hardware interfaces, drivers, bootloaders, embedded software and reverse engineering.
+**Status:** Experimental work in progress. Research findings, build preparation, and validated tests are not equivalent to a finished or flashable custom firmware. Publicly shareable results will be documented as they become available.
 
-**Linux, Servers & Networking**
+This is an independent community project, not an official Innioasis firmware release. Upstream authors and applicable licenses deserve clear credit.
 
-Linux administration, self-hosting, virtualization, containers, network infrastructure, SSH, VPNs, WireGuard, storage and automation.
+## 🐧 Other Technical Interests
 
-**Software & Client/Server Technologies**
+- **Linux & infrastructure:** Debian, self-hosting, virtualization, containers, monitoring, and automation
+- **Networking & security:** SSH, WireGuard, VPNs, firewalls, and practical system hardening
+- **AI-assisted development:** coding agents, structured handoffs, reproducible workflows, and evidence-based reviews
+- **Embedded & electronics:** ARM devices, low-power computing, hardware interfaces, and reverse engineering
+- **Bitcoin & blockchain:** open protocols, nodes, and decentralized infrastructure
 
-Python, C, shell scripting, APIs, lightweight services, multimedia applications and client/server architectures.
+## 🤝 Open Source
 
-**Open Source & AI Agents**
+I'm here to learn, exchange technical findings, and contribute where I can add something useful: reproducible bug reports, documentation improvements, hardware observations, testing, and small focused patches.
 
-Open-source development, AI-assisted engineering, multi-agent workflows, autonomous coding agents, software experimentation and technical documentation.
+I aim to distinguish **tested results** from **work in progress**, acknowledge upstream work, and share only material that can legally and safely be published.
 
-**Bitcoin & Blockchain**
+**Learn by experimenting. Verify before claiming. Share what can be shared.**
 
-Bitcoin, decentralized technologies, blockchain infrastructure, cryptographic systems and open financial protocols.
-
-## 🚀 Featured Project: Y2BlackBOX
-
-**Custom firmware research for the Innioasis Y2 digital audio player.**
-
-An independent, non-commercial project exploring:
-
-- Linux kernel adaptation and real-device bring-up
-- Embedded Android and custom firmware development
-- Multimedia software and lightweight Linux services
-- Hardware integration and device optimization
-- Reproducible testing, diagnostics and safe recovery
-
-The project is under active development. The goal is to share original developments and legally redistributable components with the open-source community.
-
-## 🌍 My Philosophy
-
-**Learn by experimenting. Build with curiosity. Share what can be shared.**
-
-I believe that understanding technology requires going beyond the user interface, exploring the hardware, the operating system and the code underneath.
-
-I’m always interested in exchanging knowledge, exploring open-source projects and learning from developers and engineers around the world.
-
-📍 Italy  
-🔓 Open-source enthusiast  
-🤖 AI-agent explorer  
-🐧 Linux & embedded systems learner
+📍 Italy · 🔧 Independent maker · 🐧 Linux & embedded systems
